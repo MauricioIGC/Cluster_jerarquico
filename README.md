@@ -8,4 +8,5 @@ un algoritmo que hace uso de la api del INEGI para obtener información de empre
 fué usado para obtener la información usada en el anterior algoritmo.
 
 Edit: añadí archivos html donde se ven los mapas de los que hablo en cluster_jerarquico
-pues GHub no corre las salidas de dichas imágenes desde el cuaderno.
+pues GHub no corre las salidas de dichas imágenes desde el cuaderno, sin embargo podrás ver
+mientras lees un screenshot del mapa.
