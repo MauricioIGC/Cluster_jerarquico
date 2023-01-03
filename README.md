@@ -7,3 +7,5 @@ código que nos ayuda a saber en qué zonas sería bueno poner un sushi-roll y e
 un algoritmo que hace uso de la api del INEGI para obtener información de empresas, el cuál
 fué usado para obtener la información usada en el anterior algoritmo.
 
+Edit: añadí archivos html donde se ven los mapas de los que hablo en cluster_jerarquico
+pues GHub no corre las salidas de dichas imágenes desde el cuaderno.
